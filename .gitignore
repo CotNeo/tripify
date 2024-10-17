@@ -1,0 +1,40 @@
+# Node.js modülleri
+node_modules/
+
+# Çevresel değişken dosyaları
+.env
+
+# Log dosyaları
+logs/
+*.log
+
+# Çıkartılmış dosyalar ve dökümanlar
+*.zip
+*.tar.gz
+
+# OS ve IDE dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Derleyici çıkışları
+dist/
+build/
+
+# Geçici dosyalar
+tmp/
+temp/
+
+# Test kapsamı
+coverage/
+
+# Sürüm kontrolü yapılandırma dosyaları
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Diğer
+.env.local
+.env.*.local
